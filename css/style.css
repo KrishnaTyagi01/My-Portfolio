@@ -150,7 +150,20 @@ a:focus {
     box-shadow: 0 2px 5px rgba(0, 0, 0, .3);
 }
 
+@media (max-device-width: 500px) {
+    .navbar .navbar-brand {
+        display: none;
+    }
+}
+
 .navbar .navbar-brand {
+
+    /* @media(max-width: 450px){
+       
+    } */
+
+    
+
     margin: 0;
     font-size: 45px;
     line-height: 0px;
