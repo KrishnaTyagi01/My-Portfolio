@@ -492,6 +492,10 @@ a:focus {
 /*******************************/
 /********** About CSS **********/
 /*******************************/
+
+.skill-name1{ 
+   font-weight: 700;
+}
 .about {
     position: relative;
     width: 100%;
